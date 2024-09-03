@@ -29,6 +29,7 @@
     "@angular-devkit/build-angular": "^17.0.7",
     "@angular/cli": "^17.0.7",
     "@angular/compiler-cli": "^17.0.7",
+    "@angular/localize": "^17.3.12",
     "@types/jasmine": "~4.0.0",
     "jasmine-core": "~4.1.0",
     "karma": "~6.3.0",
@@ -41,11 +42,11 @@
   "configurations": {
     "development": {
       "fileReplacements": [
-          {
-            "replace": "src/environments/environment.ts",
-            "with": "src/environments/environment.development.ts"
-          }
-        ]
-      }
+        {
+          "replace": "src/environments/environment.ts",
+          "with": "src/environments/environment.development.ts"
+        }
+      ]
     }
+  }
 }

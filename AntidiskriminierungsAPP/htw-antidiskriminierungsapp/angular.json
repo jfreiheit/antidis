@@ -25,6 +25,7 @@
             "styles": [
               "src/styles.css"
             ],
+            "localize": true,
             "scripts": []
           },
           "configurations": {
