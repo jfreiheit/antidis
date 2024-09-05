@@ -52,7 +52,8 @@ export function httpTranslateLoaderFactory(http: HttpClient) {
       defaultLanguage: 'de',
       loader: {
         provide: TranslateLoader,
-        useFactory: httpTranslateLoaderFactory,
+        useFactory: (http: HttpClient) =>
+              new TranslateHttpLoader(http, '../assets/i18n/', `.json?v=${new Date().getTime()}`),
         deps: [HttpClient],
       },
     })
