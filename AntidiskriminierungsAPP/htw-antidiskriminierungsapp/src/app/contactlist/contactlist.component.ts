@@ -31,11 +31,25 @@ export class ContactlistComponent implements OnInit {
 
     const mitgliedergruppe = filterService.getMitgliedergruppe();
     const gremium = filterService.getGremium();
+    const gremium1 = filterService.getGremium1();
+    const gremium2 = filterService.getGremium2();
     const organisationseinheit = filterService.getOrganisationseinheit();
     const sprache = this.filterService.getSprache();
 
     if (mitgliedergruppe || gremium || organisationseinheit || sprache) {
-      filteredContacts = filteredContacts.filter((contact) => contact.mitgliedergruppe === mitgliedergruppe || contact.gremium === gremium || contact.organisationseinheit === organisationseinheit || contact.sprache === sprache);
+      filteredContacts = filteredContacts.filter((contact) => 
+        contact.mitgliedergruppe === mitgliedergruppe || (contact.gremium != "" && (
+        gremium != "" && contact.gremium === gremium || 
+        gremium1 != "" && contact.gremium === gremium1 || 
+        gremium2 != "" && contact.gremium === gremium2)) || (contact.gremium1 != "" && (
+        gremium != "" && contact.gremium1 === gremium || 
+        gremium1 != "" && contact.gremium1 === gremium1 || 
+        gremium2 != "" && contact.gremium1 === gremium2)) || (contact.gremium2 != "" && (
+        gremium != "" && contact.gremium2 === gremium || 
+        gremium1 != "" && contact.gremium2 === gremium1 || 
+        gremium2 != "" && contact.gremium2 === gremium2)) ||
+        contact.organisationseinheit === organisationseinheit || 
+        contact.sprache === sprache);
     }
     if (filteredContacts.length < this.allcontacts.length) {
       this.showFilterMsg();
@@ -57,5 +71,10 @@ export class ContactlistComponent implements OnInit {
     setTimeout(() => {
       this.showFilterMessage = false;
     }, 8000);
+  }
+
+  gremium1filled(contact: Contacts) {
+    // console.log(contact.nachname, " --> ", contact.gremium1, " --> ", contact.gremium1 != "")
+    return contact.gremium1 != "";
   }
 }

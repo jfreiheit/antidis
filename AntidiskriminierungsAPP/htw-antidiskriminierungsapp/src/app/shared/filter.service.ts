@@ -7,6 +7,8 @@ export class FilterService {
 
   private mitgliedergruppe: string | undefined;
   private gremium: string | undefined;
+  private gremium1: string | undefined;
+  private gremium2: string | undefined;
   private organisationseinheit: string | undefined;
   private sprache: string | undefined;
 
@@ -26,6 +28,22 @@ export class FilterService {
 
   setGremium(newGremium: string | undefined) {
     this.gremium = newGremium;
+  }
+
+  getGremium1(): string | undefined {
+    return this.gremium1;
+  }
+
+  setGremium1(newGremium: string | undefined) {
+    this.gremium1 = newGremium;
+  }
+
+  getGremium2(): string | undefined {
+    return this.gremium2;
+  }
+
+  setGremium2(newGremium: string | undefined) {
+    this.gremium2 = newGremium;
   }
 
   getOrganisationseinheit(): string | undefined {

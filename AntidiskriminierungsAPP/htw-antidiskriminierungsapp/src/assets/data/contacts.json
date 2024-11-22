@@ -9,6 +9,7 @@
       "mitgliedergruppe": "EMPLOYEE_TECH",
       "gremium": "WOMEN_AND_EQOP_OFFICER",
       "gremium1": "",
+      "gremium2": "",
       "organisationseinheit": "UNIVERSITY_LIBRARY"
    },
    {
@@ -21,6 +22,7 @@
       "mitgliedergruppe": "EMPLOYEE_TECH",
       "gremium": "DEPUTY_DISABLED_EMPLOYEES",
       "gremium1": "",
+      "gremium2": "",
       "organisationseinheit": "FB 1"
    },
    {
@@ -33,6 +35,7 @@
       "mitgliedergruppe": "STUDENT",
       "gremium": "ASTA",
       "gremium1": "COUNCIL",
+      "gremium2": "",
       "organisationseinheit": ""
    },
    {
@@ -45,6 +48,7 @@
       "mitgliedergruppe": "EMPLOYEE_TECH",
       "gremium": "COUNCIL",
       "gremium1": "",
+      "gremium2": "",
       "organisationseinheit": "COMMUNICATION_DEPARTMENT"
    },
    {
@@ -55,8 +59,9 @@
       "email": "anja.pfennig@htw-berlin.de",
       "sprache": "Deutsch, Englisch",
       "mitgliedergruppe": "PROFESSOR",
-      "gremium": "",
+      "gremium": "OMBUDSPERSON",
       "gremium1": "",
+      "gremium2": "",
       "organisationseinheit": "FB 2"
    },
    {
@@ -69,6 +74,7 @@
       "mitgliedergruppe": "PROFESSOR",
       "gremium": "WOMEN_AND_EQOP_OFFICER",
       "gremium1": "",
+      "gremium2": "",
       "organisationseinheit": "FB 3"
    },
    {
@@ -81,6 +87,7 @@
       "mitgliedergruppe": "PROFESSOR",
       "gremium": "COUNCIL",
       "gremium1": "",
+      "gremium2": "",
       "organisationseinheit": "UNIVERSITY_MANAGEMENT"
    },
    {
@@ -93,19 +100,8 @@
       "mitgliedergruppe": "EMPLOYEE_TECH",
       "gremium": "DEPUTY_DISABLED_EMPLOYEES",
       "gremium1": "",
+      "gremium2": "",
       "organisationseinheit": "FB 2"
-   },
-   {
-      "titel": "",
-      "vorname": "Ann-Morla",
-      "nachname": "Meyer",
-      "telefon": "+49 30 5019-2989",
-      "email": "Ann-Morla.Meyer@HTW-Berlin.de",
-      "sprache": "Deutsch",
-      "mitgliedergruppe": "RESEARCH_ASSISTANT",
-      "gremium": "WOMEN_AND_EQOP_OFFICER",
-      "gremium1": "",
-      "organisationseinheit": "FB 1"
    },
    {
       "titel": "Prof. Dr.",
@@ -117,6 +113,7 @@
       "mitgliedergruppe": "PROFESSOR",
       "gremium": "WOMEN_AND_EQOP_OFFICER",
       "gremium1": "",
+      "gremium2": "",
       "organisationseinheit": "FB 3"
    },
    {
@@ -129,6 +126,7 @@
       "mitgliedergruppe": "PROFESSOR",
       "gremium": "WOMEN_AND_EQOP_OFFICER",
       "gremium1": "",
+      "gremium2": "",
       "organisationseinheit": "FB 5"
    },
    {
@@ -141,6 +139,7 @@
       "mitgliedergruppe": "EMPLOYEE_TECH",
       "gremium": "REP_DISABLED_STUDENTS",
       "gremium1": "COUNCIL",
+      "gremium2": "",
       "organisationseinheit": "STUDENT_ADVISE"
    },
    {
@@ -153,6 +152,7 @@
       "mitgliedergruppe": "RESEARCH_ASSISTANT",
       "gremium": "WOMEN_AND_EQOP_OFFICER",
       "gremium1": "",
+      "gremium2": "",
       "organisationseinheit": "FB 4"
    },
    {
@@ -165,19 +165,21 @@
       "mitgliedergruppe": "STUDENT",
       "gremium": "ASTA",
       "gremium1": "COUNCIL",
+      "gremium2": "",
       "organisationseinheit": ""
    },
    {
       "titel": "Prof. Dr.",
-      "vorname": "Elena",
-      "nachname": "Schüler",
-      "telefon": "+49 30 5019-3394",
-      "email": "Elena.Schueler@HTW-Berlin.de",
-      "sprache": "Deutsch",
+      "vorname": "Fiona",
+      "nachname": "Sammler",
+      "telefon": "+49 30 5019-4368",
+      "email": "Romy.Morana@HTW-Berlin.de",
+      "sprache": "Deutsch, Englisch",
       "mitgliedergruppe": "PROFESSOR",
       "gremium": "WOMEN_AND_EQOP_OFFICER",
       "gremium1": "",
-      "organisationseinheit": "FB 4"
+      "gremium2": "",
+      "organisationseinheit": "FB 2"
    },
    {
       "titel": "",
@@ -189,19 +191,8 @@
       "mitgliedergruppe": "EMPLOYEE_TECH",
       "gremium": "PERSON_OF_TRUST_DISABLED_EMP",
       "gremium1": "COUNCIL",
+      "gremium2": "",
       "organisationseinheit": "FB 4"
-   },
-   {
-      "titel": "",
-      "vorname": "Franziska",
-      "nachname": "Knopp",
-      "telefon": "+49 30 5019-2644",
-      "email": "franziska.knopp@htw-berlin.de",
-      "sprache": "Deutsch",
-      "mitgliedergruppe": "EMPLOYEE_TECH",
-      "gremium": "MEMBER_TRUST_TEAM",
-      "gremium1": "",
-      "organisationseinheit": "STUDENT_ADVISE"
    },
    {
       "titel": "",
@@ -213,6 +204,7 @@
       "mitgliedergruppe": "EMPLOYEE_TECH",
       "gremium": "DEPUTY_DISABLED_EMPLOYEES",
       "gremium1": "",
+      "gremium2": "",
       "organisationseinheit": "FACILITY_FOREIGN_LANG"
    },
    {
@@ -224,7 +216,8 @@
       "sprache": "Deutsch, Englisch",
       "mitgliedergruppe": "EMPLOYEE_TECH",
       "gremium": "COUNCIL",
-      "gremium1": "Mitglied des Personalrats",
+      "gremium1": "STAFF_COUNCIL",
+      "gremium2": "",
       "organisationseinheit": "INTERNATIONAL_OFFICE"
    },
    {
@@ -237,6 +230,7 @@
       "mitgliedergruppe": "EMPLOYEE_TECH",
       "gremium": "MEMBER_TRUST_TEAM",
       "gremium1": "",
+      "gremium2": "",
       "organisationseinheit": "STUDENT_ADVISE"
    },
    {
@@ -247,8 +241,9 @@
       "email": "ingo.kuschel@htw-berlin.de",
       "sprache": "Deutsch",
       "mitgliedergruppe": "EMPLOYEE_TECH",
-      "gremium": "Stellvertretendes COUNCIL",
-      "gremium1": "Mitglied des Personalrats",
+      "gremium": "S_COUNCIL",
+      "gremium1": "STAFF_COUNCIL",
+      "gremium2": "",
       "organisationseinheit": "UNIVERSITY_COMP_CENTER"
    },
    {
@@ -261,6 +256,7 @@
       "mitgliedergruppe": "EMPLOYEE_TECH",
       "gremium": "COUNCIL",
       "gremium1": "",
+      "gremium2": "",
       "organisationseinheit": "HR"
    },
    {
@@ -273,6 +269,7 @@
       "mitgliedergruppe": "EMPLOYEE_TECH",
       "gremium": "MEMBER_TRUST_TEAM",
       "gremium1": "",
+      "gremium2": "",
       "organisationseinheit": "GENERAL_STUDENT_SERVICE"
    },
    {
@@ -285,6 +282,7 @@
       "mitgliedergruppe": "RESEARCH_ASSISTANT",
       "gremium": "DEPUTY_1",
       "gremium1": "",
+      "gremium2": "",
       "organisationseinheit": "PROMOTION_WOMEN"
    },
    {
@@ -295,8 +293,9 @@
       "email": "jochen.twele@htw-berlin.de",
       "sprache": "Deutsch, Englisch",
       "mitgliedergruppe": "PROFESSOR",
-      "gremium": "",
+      "gremium": "OMBUDSPERSON",
       "gremium1": "",
+      "gremium2": "",
       "organisationseinheit": "FB 1"
    },
    {
@@ -309,6 +308,7 @@
       "mitgliedergruppe": "PROFESSOR",
       "gremium": "WOMEN_AND_EQOP_OFFICER",
       "gremium1": "",
+      "gremium2": "",
       "organisationseinheit": "FB 5"
    },
    {
@@ -321,6 +321,7 @@
       "mitgliedergruppe": "STUDENT",
       "gremium": "ASTA",
       "gremium1": "COUNCIL",
+      "gremium2": "",
       "organisationseinheit": ""
    },
    {
@@ -333,6 +334,7 @@
       "mitgliedergruppe": "STUDENT",
       "gremium": "WOMEN_AND_EQOP_OFFICER",
       "gremium1": "",
+      "gremium2": "",
       "organisationseinheit": "FB 1"
    },
    {
@@ -345,7 +347,21 @@
       "mitgliedergruppe": "EMPLOYEE_TECH",
       "gremium": "WOMEN_AND_EQOP_OFFICER",
       "gremium1": "",
+      "gremium2": "",
       "organisationseinheit": "FACILITY_FOREIGN_LANG"
+   },
+   {
+      "titel": "",
+      "vorname": "Meryem",
+      "nachname": "Yildiz",
+      "telefon": "+49 30 5019-2415",
+      "email": "Meryem.Yildiz@HTW-Berlin.de",
+      "sprache": "Deutsch, Englisch, Türkisch",
+      "mitgliedergruppe": "RESEARCH_ASSISTANT",
+      "gremium": "FT_WOMEN_AND_EQOP_REP",
+      "gremium1": "COUNCIL",
+      "gremium2": "MEMBER_TRUST_TEAM",
+      "organisationseinheit": "PROMOTION_WOMEN"
    },
    {
       "titel": "",
@@ -357,6 +373,7 @@
       "mitgliedergruppe": "EMPLOYEE_TECH",
       "gremium": "COUNCIL",
       "gremium1": "MEMBER_TRUST_TEAM",
+      "gremium2": "",
       "organisationseinheit": "FB 3"
    },
    {
@@ -368,7 +385,8 @@
       "sprache": "Deutsch",
       "mitgliedergruppe": "EMPLOYEE_TECH",
       "gremium": "DEPUTY_2",
-      "gremium1": "",
+      "gremium1": "MEMBER_TRUST_TEAM",
+      "gremium2": "",
       "organisationseinheit": "GENERAL_STUDENT_SERVICE"
    },
    {
@@ -381,6 +399,7 @@
       "mitgliedergruppe": "EMPLOYEE_TECH",
       "gremium": "COUNCIL",
       "gremium1": "MEMBER_TRUST_TEAM",
+      "gremium2": "",
       "organisationseinheit": "STUDENT_ADVISE"
    },
    {
@@ -393,6 +412,7 @@
       "mitgliedergruppe": "PROFESSOR",
       "gremium": "WOMEN_AND_EQOP_OFFICER",
       "gremium1": "",
+      "gremium2": "",
       "organisationseinheit": "FB 2"
    },
    {
@@ -405,7 +425,21 @@
       "mitgliedergruppe": "EMPLOYEE_TECH",
       "gremium": "MEMBER_TRUST_TEAM",
       "gremium1": "",
+      "gremium2": "",
       "organisationseinheit": "UNIVERSITY_COMP_CENTER"
+   },
+   {
+      "titel": "Prof. Dr.",
+      "vorname": "Silvia",
+      "nachname": "de Lima Vasconcellos",
+      "telefon": "+49 30 5019-3764",
+      "email": "Silvia.deLimaVasconcelos@HTW-Berlin.de",
+      "sprache": "Deutsch, Englisch",
+      "mitgliedergruppe": "PROFESSOR",
+      "gremium": "WOMEN_AND_EQOP_OFFICER",
+      "gremium1": "",
+      "gremium2": "",
+      "organisationseinheit": "FB 1"
    },
    {
       "titel": "",
@@ -417,19 +451,8 @@
       "mitgliedergruppe": "EMPLOYEE_TECH",
       "gremium": "WOMEN_AND_EQOP_OFFICER",
       "gremium1": "",
+      "gremium2": "",
       "organisationseinheit": "FACILITY_FOREIGN_LANG"
-   },
-   {
-      "titel": "Dr.",
-      "vorname": "Sünne",
-      "nachname": "Andresen",
-      "telefon": "+49 30 5019-2287",
-      "email": "Suenne-Maria.Andresen@HTW-Berlin.de",
-      "sprache": "Deutsch",
-      "mitgliedergruppe": "EMPLOYEE_TECH",
-      "gremium": "MEMBER_TRUST_TEAM",
-      "gremium1": "",
-      "organisationseinheit": "HR"
    },
    {
       "titel": "Prof. Dr.",
@@ -441,6 +464,7 @@
       "mitgliedergruppe": "PROFESSOR",
       "gremium": "COUNCIL",
       "gremium1": "",
+      "gremium2": "",
       "organisationseinheit": "FB 5"
    },
    {
@@ -452,7 +476,8 @@
       "sprache": "Deutsch",
       "mitgliedergruppe": "RESEARCH_ASSISTANT",
       "gremium": "FT_WOMEN_AND_EQOP_REP",
-      "gremium1": "COUNCIL, MEMBER_TRUST_TEAM",
+      "gremium1": "COUNCIL",
+      "gremium2": "MEMBER_TRUST_TEAM",
       "organisationseinheit": "PROMOTION_WOMEN"
    }
 ]

@@ -8,5 +8,6 @@ export interface Contacts {
     mitgliedergruppe: string;
     gremium: string;
     gremium1: string;
+    gremium2: string;
     organisationseinheit: string;
 }
