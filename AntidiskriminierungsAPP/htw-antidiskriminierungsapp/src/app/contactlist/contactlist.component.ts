@@ -72,9 +72,4 @@ export class ContactlistComponent implements OnInit {
       this.showFilterMessage = false;
     }, 8000);
   }
-
-  gremium1filled(contact: Contacts) {
-    // console.log(contact.nachname, " --> ", contact.gremium1, " --> ", contact.gremium1 != "")
-    return contact.gremium1 != "";
-  }
 }

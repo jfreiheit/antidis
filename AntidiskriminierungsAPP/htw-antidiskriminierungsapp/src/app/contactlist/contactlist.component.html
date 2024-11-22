@@ -13,7 +13,8 @@
             <p class="card-text">{{ 'contactlist.email' | translate }}: {{ contact.email }}</p>
             <p class="card-text">{{ 'contactlist.membergroup' | translate }}: {{ contact.mitgliedergruppe | translate }}</p>
             <p class="card-text">{{ 'contactlist.committee' | translate }}: {{ contact.gremium | translate }}
-                <span *ngIf="gremium1filled(contact)">, {{ contact.gremium1 | translate }} </span>
+                <span *ngIf="contact.gremium1!=''">, {{ contact.gremium1 | translate }} </span>
+                <span *ngIf="contact.gremium2!=''">, {{ contact.gremium2 | translate }} </span>
             </p>
             <p class="card-text">{{ 'contactlist.organizational.unit' | translate }}: {{ contact.organisationseinheit | translate }}</p>
             <button class="btn btn-primary" (click)="contactPerson(contact.email, contact.titel, contact.vorname, contact.nachname)">
@@ -33,7 +34,8 @@
             <p class="card-text">E-Mail: {{ contact.email }}</p>
             <p class="card-text">Mitgliedergruppe: {{ contact.mitgliedergruppe | translate }}</p>
             <p class="card-text">Gremium: {{ contact.gremium | translate }}
-                <span *ngIf="gremium1filled(contact)">, {{ contact.gremium1 | translate }} </span>
+                <span *ngIf="contact.gremium1!=''">, {{ contact.gremium1 | translate }} </span>
+                <span *ngIf="contact.gremium2!=''">, {{ contact.gremium2 | translate }} </span>
             </p>
             <p class="card-text">Organisationseinheit: {{ contact.organisationseinheit | translate }}</p>
             <button class="btn btn-primary desktop" (click)="contactPerson(contact.email, contact.titel, contact.vorname, contact.nachname)">
