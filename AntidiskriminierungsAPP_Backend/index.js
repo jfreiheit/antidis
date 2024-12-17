@@ -69,7 +69,7 @@ app.post('', (req, res) => {
         mailOptions = {
             from: process.env.from,
             to: process.env.to,
-            subject: `Beratung AntidiskriminierungsAPP (an ${apmail} über das ${formulartyp})`,
+            subject: `Kontaktaufnahme mit ${apmail} zur Erstberatung`,
             text: `
             Folgende Informationen wurden in das ${formulartyp} eingegeben:
             Mitgliedergruppe: ${mitgliedergruppe}
@@ -93,7 +93,7 @@ app.post('', (req, res) => {
         mailOptions = {
             from: process.env.from,
             to: process.env.to,
-            subject: `Beratung AntidiskriminierungsAPP (an ${apmail} über das ${formulartyp})`,
+            subject: `Kontaktaufnahme zur Erstberatung`,
             text: `
             Folgende Informationen wurden in das ${formulartyp} eingegeben:
             Mitgliedergruppe: ${mitgliedergruppe}
@@ -114,7 +114,7 @@ app.post('', (req, res) => {
         mailOptions = {
             from: process.env.from,
             to: process.env.to,
-            subject: `Meldung über die AntidiskriminierungsAPP (${formulartyp})`,
+            subject: `Meldung eines Vorfalls`,
             text: `
             Folgende Informationen wurden in das ${formulartyp} eingegeben:
             Mitgliedergruppe: ${mitgliedergruppe}
