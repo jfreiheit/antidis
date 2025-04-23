@@ -1,5 +1,18 @@
 [
    {
+      "titel": "Prof. Dr.",
+      "vorname": "Adrianna",
+      "nachname": "Alexander",
+      "telefon": "+49 30 5019-3724",
+      "email": "Adrianna.Alexander@HTW-Berlin.de",
+      "sprache": "Deutsch, Englisch, Polnisch",
+      "mitgliedergruppe": "PROFESSOR",
+      "gremium": "WOMEN_AND_EQOP_OFFICER",
+      "gremium1": "MEMBER_TRUST_TEAM",
+      "gremium2": "",
+      "organisationseinheit": "FB 4"
+   },
+   {
       "titel": "",
       "vorname": "Andrea",
       "nachname": "Krischker",
@@ -156,11 +169,24 @@
       "organisationseinheit": ""
    },
    {
+      "titel": "",
+      "vorname": "Eske",
+      "nachname": "Heister",
+      "telefon": "+49 30 5019-2229",
+      "email": "Eske.Heister@HTW-Berlin.de",
+      "sprache": "Deutsch, Englisch",
+      "mitgliedergruppe": "EMPLOYEE_TECH",
+      "gremium": "COUNCIL",
+      "gremium1": "STAFF_COUNCIL",
+      "gremium2": "",
+      "organisationseinheit": "UNIVERSITY_LIBRARY"
+   },
+   {
       "titel": "Prof. Dr.",
       "vorname": "Fiona",
       "nachname": "Sammler",
       "telefon": "+49 30 5019-4368",
-      "email": "Romy.Morana@HTW-Berlin.de",
+      "email": "Fiona.Sammler@HTW-Berlin.de",
       "sprache": "Deutsch, Englisch",
       "mitgliedergruppe": "PROFESSOR",
       "gremium": "WOMEN_AND_EQOP_OFFICER",
@@ -206,6 +232,19 @@
       "gremium1": "STAFF_COUNCIL",
       "gremium2": "",
       "organisationseinheit": "INTERNATIONAL_OFFICE"
+   },
+   {
+      "titel": "Prof. Dr.",
+      "vorname": "Habakuk",
+      "nachname": "Israel",
+      "telefon": "+49 30 5019-3213",
+      "email": "JohannHabakuk.Israel@HTW-Berlin.de",
+      "sprache": "Deutsch, Englisch",
+      "mitgliedergruppe": "PROFESSOR",
+      "gremium": "MEMBER_TRUST_TEAM",
+      "gremium1": "",
+      "gremium2": "",
+      "organisationseinheit": "FB 4"
    },
    {
       "titel": "",
@@ -339,6 +378,32 @@
    },
    {
       "titel": "",
+      "vorname": "Linda",
+      "nachname": "Ghirardello",
+      "telefon": "+49 30 5019-2783",
+      "email": "Linda.Ghirardello@HTW-Berlin.de",
+      "sprache": "Deutsch, Englisch, Italienisch, Französisch",
+      "mitgliedergruppe": "RESEARCH_ASSISTANT",
+      "gremium": "MEMBER_TRUST_TEAM",
+      "gremium1": "",
+      "gremium2": "",
+      "organisationseinheit": "FB 3"
+   },
+   {
+      "titel": "",
+      "vorname": "Mai Phuong",
+      "nachname": "Phan",
+      "telefon": "+49 30 5019-3972",
+      "email": "Mai.Phan@HTW-Berlin.de",
+      "sprache": "Deutsch, Englisch",
+      "mitgliedergruppe": "RESEARCH_ASSISTANT",
+      "gremium": "WOMEN_AND_EQOP_OFFICER",
+      "gremium1": "",
+      "gremium2": "",
+      "organisationseinheit": "FB 4"
+   },
+   {
+      "titel": "",
       "vorname": "Meryem",
       "nachname": "Yildiz",
       "telefon": "+49 30 5019-2415",
@@ -390,6 +455,19 @@
       "organisationseinheit": "STUDENT_ADVISE"
    },
    {
+      "titel": "",
+      "vorname": "Paul",
+      "nachname": "Schwarz",
+      "telefon": "+49 30 5019-3547",
+      "email": "Paul.Schwarz@HTW-Berlin.de",
+      "sprache": "Deutsch, Englisch",
+      "mitgliedergruppe": "LECTURER",
+      "gremium": "MEMBER_TRUST_TEAM",
+      "gremium1": "",
+      "gremium2": "",
+      "organisationseinheit": "FB 1"
+   },
+   {
       "titel": "Prof. Dr.",
       "vorname": "Romy",
       "nachname": "Morana",
@@ -427,6 +505,19 @@
       "gremium1": "",
       "gremium2": "",
       "organisationseinheit": "FB 1"
+   },
+   {
+      "titel": "",
+      "vorname": "Sophie",
+      "nachname": "Obinger",
+      "telefon": "+49 30 5019-2429",
+      "email": "Sophie.Obinger@HTW-Berlin.de",
+      "sprache": "Deutsch, Englisch, Spanisch, Italienisch",
+      "mitgliedergruppe": "EMPLOYEE_TECH",
+      "gremium": "MEMBER_TRUST_TEAM",
+      "gremium1": "",
+      "gremium2": "",
+      "organisationseinheit": "PROMOTION_WOMEN"
    },
    {
       "titel": "",
