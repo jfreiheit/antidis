@@ -557,5 +557,18 @@
       "gremium1": "COUNCIL",
       "gremium2": "MEMBER_TRUST_TEAM",
       "organisationseinheit": "PROMOTION_WOMEN"
+   },
+   {
+      "titel": "",
+      "vorname": "Verónica",
+      "nachname": "Orsi",
+      "telefon": "",
+      "email": "orsi@HTW-Berlin.de",
+      "sprache": "Deutsch, Englisch, Spanisch, Französisch",
+      "mitgliedergruppe": "LECTURER",
+      "gremium": "MEMBER_TRUST_TEAM",
+      "gremium1": "",
+      "gremium2": "",
+      "organisationseinheit": "FB1, FB5"
    }
 ]
