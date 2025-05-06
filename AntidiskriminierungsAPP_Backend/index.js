@@ -20,8 +20,8 @@ const https_options = {
 app.use(bodyParser.json());
 app.use(cors());
 
-// console.log('from', process.env.from)
-// console.log('to', process.env.to)
+console.log('from', process.env.from)
+console.log('to', process.env.to)
 
 app.get('', (req, res) => {
 	res.send({ message: "test"})
